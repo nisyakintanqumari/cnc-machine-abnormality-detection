@@ -61,7 +61,7 @@ The goal is to analyze sensor data from CNC machines and detect anomalies throug
 Hi! I’m **Nisya Kintan Qumari**, a Master’s graduate from NTUST, Taiwan. I love working on data-driven projects and applying AI/ML to real-world problems.
 
 📧 Email: nisyakintanqumari@gmail.com  
-📫 LinkedIn: [linkedin.com/in/nisyakintanqumari](https://linkedin.com/in/nisyakintanqumari)
+📫 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisya-kintan-qumari-%E5%80%AA%E8%89%BE%E8%8E%8E-52b202215/)
 
 ## 📜 License
 
