@@ -3,6 +3,10 @@
 This project focuses on detecting abnormalities in CNC (Computer Numerical Control) machines using machine learning. We apply feature selection techniques using a correlation matrix to improve model performance in classifying abnormal vs. normal behavior.
 A machine learning project to detect abnormalities in CNC machines using feature selection and classification models.
 
+## 🧠 Project Overview
+
+The goal is to analyze sensor data from CNC machines and detect anomalies through correlation matrix-based feature selection and classification models.
+
 ## 🎯 Objectives
 
 - Detect abnormal patterns in CNC machine operation
@@ -12,7 +16,7 @@ A machine learning project to detect abnormalities in CNC machines using feature
 ## 🧠 Tools & Technology
 
 - Python (Jupyter Notebook)
-- Libraries: Pandas, Scikit-learn, Seaborn, Matplotlib
+- Libraries: Pandas, Scikit-learn, Seaborn, Matplotlib, NumPy
 - Algorithms: Random Forest, KNN, SVM, Decision Tree
 
 ## 📊 Feature Selection Process
@@ -31,7 +35,11 @@ A machine learning project to detect abnormalities in CNC machines using feature
 
 ## 📈 Visualization
 
-![Correlation Matrix](images/feature-selection-diagram.png)
+![General overview of research](https://github.com/nisyakintanqumari/cnc-machine-abnormality-detection/blob/main/general%20overview%20of%20research.jpeg)
+
+![Hardware installation](https://github.com/nisyakintanqumari/cnc-machine-abnormality-detection/blob/main/Hardware%20installation.png)
+
+![Correlation Matrix](https://github.com/nisyakintanqumari/cnc-machine-abnormality-detection/blob/main/Heatmap%20Correlation%20all%20Feature%20(1).jpeg)
 
 ## 📁 Project Structure
 
